@@ -1,0 +1,23 @@
+{
+  "name": "cheplagina_final_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js",
+    "build": "mkdir build",
+    "say": "echo Hello!",
+    "delete": "rm -rf build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/Cheplagina_final_react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/Cheplagina_final_react/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/Cheplagina_final_react#readme"
+}
